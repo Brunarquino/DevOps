@@ -1,1 +1,0 @@
-Objetivo: Estudos de DevOps com foco em Cloud
